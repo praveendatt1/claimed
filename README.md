@@ -1,4 +1,4 @@
-<!--
+<!---
 {% comment %}
 Copyright 2018-2021 Elyra Authors
 
